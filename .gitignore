@@ -1,0 +1,13 @@
+# Local environments and generated scratch files
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+.env
+.env.*
+*.pem
+*.key
+work/tools/
+work/upstream/
+**/*_raw.png
+dist/

@@ -1,0 +1,620 @@
+{
+  "status": "PASS",
+  "parts": {
+    "battery_cover": {
+      "volume_mm3": 6596.133014391967,
+      "bounds_mm": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          47.0,
+          69.75,
+          11.09999942779541
+        ]
+      ],
+      "triangles": 19462,
+      "one_solid": true
+    },
+    "cap_socket_3p0": {
+      "volume_mm3": 375.6207588924539,
+      "bounds_mm": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          11.399999618530273,
+          11.399999618530273,
+          8.0
+        ]
+      ],
+      "triangles": 2560,
+      "one_solid": true
+    },
+    "cap_socket_3p1": {
+      "volume_mm3": 374.8976977332477,
+      "bounds_mm": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          11.399999618530273,
+          11.399999618530273,
+          8.0
+        ]
+      ],
+      "triangles": 2560,
+      "one_solid": true
+    },
+    "cap_socket_3p2": {
+      "volume_mm3": 374.15108301452,
+      "bounds_mm": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          11.399999618530273,
+          11.399999618530273,
+          8.0
+        ]
+      ],
+      "triangles": 2560,
+      "one_solid": true
+    },
+    "cap_socket_3p3": {
+      "volume_mm3": 373.38091735594975,
+      "bounds_mm": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          11.399999618530273,
+          11.399999618530273,
+          8.0
+        ]
+      ],
+      "triangles": 2560,
+      "one_solid": true
+    },
+    "faceplate": {
+      "volume_mm3": 22952.04092039633,
+      "bounds_mm": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          147.9622802734375,
+          87.70684814453125,
+          14.0
+        ]
+      ],
+      "triangles": 291890,
+      "one_solid": true
+    },
+    "faceplate_NO_SPRING_ONLY": {
+      "volume_mm3": 23461.032757709472,
+      "bounds_mm": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          147.9622802734375,
+          87.70684814453125,
+          14.0
+        ]
+      ],
+      "triangles": 291814,
+      "one_solid": true
+    },
+    "rear_tray": {
+      "volume_mm3": 15225.578125283702,
+      "bounds_mm": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          147.9622802734375,
+          90.83271026611328,
+          11.40000057220459
+        ]
+      ],
+      "triangles": 229280,
+      "one_solid": true
+    },
+    "PRINT_FIRST_cheek_grip": {
+      "volume_mm3": 847.7033308280743,
+      "bounds_mm": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          12.015190124511719,
+          16.0,
+          11.0
+        ]
+      ],
+      "triangles": 11898,
+      "one_solid": true
+    },
+    "PRINT_FIRST_cover_edge": {
+      "volume_mm3": 417.6998889922834,
+      "bounds_mm": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          8.100000381469727,
+          20.0,
+          8.299999237060547
+        ]
+      ],
+      "triangles": 216,
+      "one_solid": true
+    },
+    "PRINT_FIRST_front_buttons": {
+      "volume_mm3": 3192.8769538567735,
+      "bounds_mm": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          41.01519012451172,
+          36.0,
+          14.0
+        ]
+      ],
+      "triangles": 49452,
+      "one_solid": true
+    },
+    "PRINT_FIRST_latch_cover": {
+      "volume_mm3": 1511.8957965470424,
+      "bounds_mm": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          44.20000076293945,
+          9.299999237060547,
+          9.199999809265137
+        ]
+      ],
+      "triangles": 17134,
+      "one_solid": true
+    },
+    "PRINT_FIRST_latch_tray": {
+      "volume_mm3": 1537.8662927623584,
+      "bounds_mm": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          59.0,
+          9.0,
+          11.40000057220459
+        ]
+      ],
+      "triangles": 21892,
+      "one_solid": true
+    },
+    "PRINT_FIRST_right_ear_SAO": {
+      "volume_mm3": 3158.193333355328,
+      "bounds_mm": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          42.03666687011719,
+          28.77252960205078,
+          14.0
+        ]
+      ],
+      "triangles": 59180,
+      "one_solid": true
+    },
+    "PRINT_FIRST_rim_lid_0p15": {
+      "volume_mm3": 920.6589095792891,
+      "bounds_mm": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          10.79697036743164,
+          19.95124053955078,
+          14.0
+        ]
+      ],
+      "triangles": 13702,
+      "one_solid": true
+    },
+    "PRINT_FIRST_rim_lid_0p25": {
+      "volume_mm3": 921.2590863844758,
+      "bounds_mm": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          10.79697036743164,
+          19.95124053955078,
+          14.0
+        ]
+      ],
+      "triangles": 13774,
+      "one_solid": true
+    },
+    "PRINT_FIRST_rim_lid_0p35": {
+      "volume_mm3": 921.9592922582578,
+      "bounds_mm": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          10.79697036743164,
+          19.95124053955078,
+          14.0
+        ]
+      ],
+      "triangles": 13846,
+      "one_solid": true
+    },
+    "PRINT_FIRST_rim_tray": {
+      "volume_mm3": 570.5211797823348,
+      "bounds_mm": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          10.335159301757812,
+          19.95124053955078,
+          11.40000057220459
+        ]
+      ],
+      "triangles": 13034,
+      "one_solid": true
+    },
+    "PRINT_FIRST_screen_52p5x40": {
+      "volume_mm3": 926.5970580455427,
+      "bounds_mm": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          58.5,
+          46.0,
+          1.6000003814697266
+        ]
+      ],
+      "triangles": 800,
+      "one_solid": true
+    }
+  },
+  "kits": {
+    "CatBadge-v8.4-COMBINED-HANDHELD.3mf": {
+      "objects": 9,
+      "bed_mm": [
+        220,
+        220
+      ],
+      "no_overlap": true
+    },
+    "PRINT_FIRST_v8.4_Fit_and_Comfort.3mf": {
+      "objects": 15,
+      "bed_mm": [
+        220,
+        220
+      ],
+      "no_overlap": true
+    },
+    "CatBadge-v8.4-COMBINED-HANDHELD-NO-SPRING-ONLY.3mf": {
+      "objects": 9,
+      "bed_mm": [
+        220,
+        220
+      ],
+      "no_overlap": true
+    },
+    "PRINT_FIRST_v8.4_Comfort_Only.3mf": {
+      "objects": 3,
+      "bed_mm": [
+        220,
+        220
+      ],
+      "no_overlap": true
+    }
+  },
+  "checks": {
+    "integral_snap_coupons": {
+      "0p15": {
+        "retention_interference_mm3": [
+          0.10002933753071375
+        ],
+        "release_positions": 22,
+        "prescribed_outward_mm": 0.35
+      },
+      "0p25": {
+        "retention_interference_mm3": [
+          0.30008889921682186
+        ],
+        "release_positions": 22,
+        "prescribed_outward_mm": 0.45
+      },
+      "0p35": {
+        "retention_interference_mm3": [
+          0.5751701854023091
+        ],
+        "release_positions": 22,
+        "prescribed_outward_mm": 0.55
+      }
+    },
+    "latch_coupon_release_positions": 17,
+    "v83_front_interior_and_retaining_ribs_preserved": true,
+    "PCB_seat_and_assembly_clearance": true,
+    "full_integral_snaps": {
+      "retention_interference_mm3": [
+        0.30008889921682186,
+        0.30008396498618595,
+        0.30023499495843947,
+        0.3002340536025561
+      ],
+      "release_positions": 22,
+      "prescribed_outward_mm": 0.45
+    },
+    "alternate_integral_snaps": {
+      "retention_interference_mm3": [
+        0.30008889921682186,
+        0.30008396498618595,
+        0.30023499495843947,
+        0.3002340536025561
+      ],
+      "release_positions": 22,
+      "prescribed_outward_mm": 0.45
+    },
+    "four_external_release_notches": true,
+    "button_motion_cases_both_lids": 120,
+    "cover_release_positions": 42,
+    "screen_LED_SAO_spring_access": true,
+    "screen_opening_mm": {
+      "size": [
+        52.5,
+        40.0
+      ],
+      "bounds_xy": [
+        -26.04,
+        -27.99,
+        26.46,
+        12.01
+      ]
+    },
+    "rear_antenna_trial_clearance_and_2p4_land": true,
+    "protected_inputs": true,
+    "v84_finishing_and_v83_compatibility": {
+      "material_removal": {
+        "faceplate": {
+          "removed_mm3": 75.3950047963117,
+          "added_residual_mm3": 3.673760784295155e-05
+        },
+        "faceplate_NO_SPRING_ONLY": {
+          "removed_mm3": 75.3950047457729,
+          "added_residual_mm3": 3.6828754673479125e-05
+        },
+        "rear_tray": {
+          "removed_mm3": 73.52524144776544,
+          "added_residual_mm3": 2.4374052903416063e-06
+        },
+        "battery_cover": {
+          "removed_mm3": 44.849084976899576,
+          "added_residual_mm3": 4.863632727739042e-07
+        },
+        "cap_socket_3p2": {
+          "removed_mm3": 1.3848867703902101,
+          "added_residual_mm3": 0.0
+        }
+      },
+      "eight_grips_section_area_mm2": [
+        0.13285871575299793,
+        0.13242016936166923,
+        0.1329215469154031,
+        0.1330195092383622,
+        0.13284665358634845,
+        0.13250789277537395,
+        0.13297710554076833,
+        0.13301986336170082
+      ],
+      "button_flat_face_diameter_mm": 9.4,
+      "mechanical_interface_sections_preserved": true,
+      "mixed_v83_v84_assemblies": {
+        "new_lid_old_tray": {
+          "retention_interference_mm3": [
+            0.30008889921682186,
+            0.30008396498618595,
+            0.30023499495843947,
+            0.3002340536025561
+          ],
+          "release_positions": 22,
+          "prescribed_outward_mm": 0.45
+        },
+        "new_alt_old_tray": {
+          "retention_interference_mm3": [
+            0.30008889921682186,
+            0.30008396498618595,
+            0.30023499495843947,
+            0.3002340536025561
+          ],
+          "release_positions": 22,
+          "prescribed_outward_mm": 0.45
+        },
+        "old_lid_new_tray": {
+          "retention_interference_mm3": [
+            0.30008888955213325,
+            0.3000840118899835,
+            0.3002349987915333,
+            0.3002340324012304
+          ],
+          "release_positions": 22,
+          "prescribed_outward_mm": 0.45
+        },
+        "old_alt_new_tray": {
+          "retention_interference_mm3": [
+            0.30008888955213325,
+            0.3000840118899835,
+            0.3002349987915333,
+            0.3002340324012304
+          ],
+          "release_positions": 22,
+          "prescribed_outward_mm": 0.45
+        },
+        "new_cover_old_tray": {
+          "release_positions": 42
+        },
+        "old_cover_new_tray": {
+          "release_positions": 42
+        }
+      },
+      "mixed_button_motion_cases": 120
+    }
+  },
+  "validated_artifacts": {
+    "source/render_v6.py": "829bd683b40560a9b44611bdda69a364d1e8558324857e45fc7ed313ee740c03",
+    "source/validate_v84.py": "c8c3e0609717f5eec25527c3f4b2691bfa2cac927cbc55d7e0a85523645bc8d2",
+    "source/mesh_tools.py": "72af37a33e35d89e14b58f43d59840c913ae0e627c9d0a6a441bb15e8ee5c849",
+    "source/validate_finish.py": "461c47aad766a6c7a45243f2f10c2e30f63587b351dcd8af68bdf7442a4f0830",
+    "source/generate_v6.py": "ce678f08a20e1c89a057da7d58670cfd99791f003e83d4727f5566f89b400c35",
+    "source/generate_v81.py": "3f1f11ffbc795e2b1b5e596b10c11820aa914c94a7b565bd83ce860230bad83e",
+    "source/v03_reference.py": "cd8e43ff1472a945be618f8f05fba627798a4f7ee8857c50d0bac66dbfe46847",
+    "source/ear_panels.py": "c7aef1781d22336e740c17c5ee6602650b1c85cea7124a1dd9c62a8a2b50dc73",
+    "source/battery_cover.py": "97cad701ee7e40d0811af60fc2f3864d24de40b440ffc536f37ec1603b617d46",
+    "source/generate_v84.py": "e8634107acb57ef18ef8e71b36dd58c97a5842c4e5000c65a919ade89d99d512",
+    "source/build_case.py": "f2732aa654c968688a084faff1a832e0edd5a6a0ac2c5306927ed4381bd0659e",
+    "source/render_v84.py": "640c6b4af0c1988e7ca746e1448093040e344db167b858e018d35a064b636ad7",
+    "source/generate_v83.py": "80994b2b1311caacb1b6ed04f70bf2a1d51709990d58b291d2bdb107c28bc701",
+    "source/rear_antenna.py": "fbde15b3fd79d1f641b54c3d75ef1a2e4d35cc6f587829938a84a0905afbdab6",
+    "source/generate_v75.py": "2eb58e6dc916b4bc629bc2f9e72ca9c74902afe08c52cdfe5b5344ac2c28e232",
+    "source/package_v84.py": "ddb40978825e242a0b9da097e49cd82cc3c6327bc34da54ec6e5341d6b6b2d85",
+    "source/check_overhangs.py": "45b18ff48842e9ca0f3a1889583cf32801463e31e0f37078db37b268310c67b2",
+    "source/render_joint_section.py": "6c62061211e120d58dd8581277b1153392d3791fa2ea81bed7752bc51030d9b4",
+    "source/validate_snaps.py": "ae206381a34264a1e0ea222b6082160b3a405a16da6851f8dc6ede29f03e0112",
+    "source/finish_v84.py": "7cdd186e89d1f64456ad7c3c06b8fbcf3cf7825ff058efb4cab9da6139d6bb91",
+    "parts/faceplate_NO_SPRING_ONLY.stl": "fd7215fa27456c43c2508459fae337f3656c70599c76729ff94b454269a96aed",
+    "parts/rear_tray.stl": "10ce9ce15a0277ad1f9d3397828e8fbd8f6c1049193f04ffb6f46103d47735de",
+    "parts/faceplate.stl": "06ed903874f954da685c4585fc82f4705bbc4246cc3e3a854b54d25fd1476e1c",
+    "parts/battery_cover.stl": "c8cd821e875f1af35f9a091487914eecf4fc06e5d7b86325c04310cd02120f07",
+    "parts/cap_socket_3p0.3mf": "f4099fd11306de6366b524520049ae7020e2baa4efe7fa0dfccbeed6cd3588ed",
+    "parts/cap_socket_3p1.3mf": "cefa2660caa9f31dd37ede86d78b447b4890e5bb279ffbc94b4a4decc2793e9b",
+    "parts/cap_socket_3p3.3mf": "df51aaadc6b7d3077c9de28c82ae52ddbd1b0532bf64563f22492a4c3ad935ce",
+    "parts/cap_socket_3p2.3mf": "79211dc092c0cac83e45b7a134abcd2cbb5c552d4a42048e85b877fc7951a1f3",
+    "parts/cap_socket_3p3.stl": "7d88d5a63c0188588e2c2b25dbaa82484e3d33b4b671a661a96b69cb4fe6f525",
+    "parts/cap_socket_3p2.stl": "f9dc499156deb109f3eac56682fcee4129c9cc80450c0da2687918fb90f18a59",
+    "parts/cap_socket_3p0.stl": "2e1df0a4580f54173f36eaeceb56070a566c9dee2426dd79dfdb6695a393ccc0",
+    "parts/cap_socket_3p1.stl": "d966e46989356721b0078de562694e6a700fd77e50815e9be3bd308d20684040",
+    "parts/battery_cover.3mf": "0b9aebe7c2332982dc92f0597eb0a91b4aecde4a7165ee9e706ed94192eaae98",
+    "parts/faceplate_NO_SPRING_ONLY.3mf": "0782107645453e514db4fc1b3ae9db6c2057e48eac8ea3d75dc6d478f0567724",
+    "parts/rear_tray.3mf": "b8c28203bfd56fd22b28f1c75a2209023b3ce4125563a14a8433805308f5ad14",
+    "parts/faceplate.3mf": "7db602fec98932ceb49014718237b3699d6965c98b74c6903ffaaf9c81392036",
+    "tests/PRINT_FIRST_cover_edge.stl": "c059b3bcac0d55691fb4a7949f2e6c98acb1ac54116f38a68e511479b0ab8782",
+    "tests/PRINT_FIRST_latch_tray.stl": "ceb334ead9997c69f6593e390ec4fd35d85db0cd096d16bce9e5eaa2ca17383e",
+    "tests/PRINT_FIRST_rim_tray.stl": "52d53d5443f849439b865f7aaf274552d0ac58a33117070a3b009dabb1a76c95",
+    "tests/PRINT_FIRST_latch_cover.stl": "e580bb1c9952fc77de55db1029c04df2b2d66291a00a56ba5cf5b1276af65b16",
+    "tests/PRINT_FIRST_screen_52p5x40.stl": "d37027c7cc29fbdca8baa50d0a2b651f4844628b5e1273e4c899151d8334f1a9",
+    "tests/PRINT_FIRST_cheek_grip.3mf": "b738e90564366f34082ea4c0cde9a958dd9c54912a5076ce0472b1250641961a",
+    "tests/PRINT_FIRST_rim_lid_0p15.stl": "f2a771da92a0d34b08b2be305496a49d9939a15a4f12d00e4659af9e0743d177",
+    "tests/PRINT_FIRST_rim_lid_0p35.3mf": "bd4f56c70ddb29b13f63f0cf0d5866ede675101d44fc4bdfbb9a813edadca3ab",
+    "tests/PRINT_FIRST_right_ear_SAO.stl": "f1f17644c95410ba11d66e481028574548e27d308dd7e442ef8c867c2b8cd178",
+    "tests/PRINT_FIRST_rim_lid_0p25.3mf": "332971d24cefabb9ee50fe6e37e84a4d77266ff08b341c162a6c2783b5097019",
+    "tests/PRINT_FIRST_front_buttons.stl": "f71050018117f265488e8ed6b8474dbdb7b3ed4ad00d5d35cc9a059043ba30fd",
+    "tests/PRINT_FIRST_rim_lid_0p35.stl": "e33c995aa05f09ce17a525dfdda2798008ecd524c83348d80d9d473cd8867f05",
+    "tests/PRINT_FIRST_rim_lid_0p15.3mf": "be823048bc3f28b999146ab57cf3634bac8f8e6a1ace82a2452d9620d8a8623f",
+    "tests/PRINT_FIRST_front_buttons.3mf": "1f0d02641c1a2998a3ea731290571c42f2b7a5aea655e6479e1bf2c912a8236c",
+    "tests/PRINT_FIRST_right_ear_SAO.3mf": "9dc4d9fa7e3523a4e5de0122c6d67b414e073765065db5bbec7ecbcdbce51129",
+    "tests/PRINT_FIRST_rim_lid_0p25.stl": "b1d613998e064168850270617a693fc87ed57dd3dc83e872b610d2941252130d",
+    "tests/PRINT_FIRST_cover_edge.3mf": "7ed0c453b372f70794c84970341771c44c090d6e367e0c516cc0d5a7c733f7c2",
+    "tests/PRINT_FIRST_latch_cover.3mf": "df9d4137ae6f087d4530fd4f2f4346f03aebf1c67adc167f766045c14838ef93",
+    "tests/PRINT_FIRST_cheek_grip.stl": "4290cebc2e1d3a32525e96224208c327630b817348193bfcc5a1ad2138fb8b01",
+    "tests/PRINT_FIRST_screen_52p5x40.3mf": "300cce113d662ffcda134ef3130394335a660145bb2a9b8b69eb1bde8c473b92",
+    "tests/PRINT_FIRST_rim_tray.3mf": "90dce5749331606eef5fb86410d54b52c111ac77b064c8b3f3266e0340b86b04",
+    "tests/PRINT_FIRST_latch_tray.3mf": "2f749e6d43149006ac5256e64dba14566f44cb621ff3e51c0e2f8a68ea845622",
+    "reference/v83_cap_socket_3p2_ASSEMBLY.stl": "d672cce046f1df6d4c3412946cc7c65ff57dd7b8cc97d3b9acdfff4c171fe2fa",
+    "reference/v83_battery_cover_ASSEMBLY.stl": "6e1ff87c4b0f5f2d7e8dd26eb9c5cea9d4f47b08cfe3f581ae1535ddb792573b",
+    "reference/ear_footprints.json": "1b8e4fc912dedb45aa338331dcdd2f6fc2dca7d9017330054d1b9b5880335d0c",
+    "reference/v83_rear_tray_ASSEMBLY.stl": "1557ffa422883a86b45a1cd5c82764dc94e606823fe0a785ed175788d2466b0f",
+    "reference/v83_faceplate_ASSEMBLY.stl": "d28c291df5aaca678379c3c743198c29dd55fdff59a7d5e3cc563128bcd68980",
+    "reference/v81_battery_cover_ASSEMBLY.stl": "6e1ff87c4b0f5f2d7e8dd26eb9c5cea9d4f47b08cfe3f581ae1535ddb792573b",
+    "reference/cynthion_joint_measurements.json": "21fe87dfe01835bca4f645ea1197cdae3cf67894b0dd8967884b19295dd1c98a",
+    "reference/v81_rear_tray_ASSEMBLY.stl": "b234f5d3b74c4a1c16d4ba8d21bdef65ccfc133bf4c05e44989d39c2cb8320f7",
+    "reference/v81_faceplate_ASSEMBLY.stl": "cfaccda63fc981ced1d0b77843b879e8d01e77cf18c2cb880a1ed9a1c4bae254",
+    "reference/v81_faceplate_NO_SPRING_ONLY_ASSEMBLY.stl": "f23802f352d54dce6a9374df2eac3cf63e5bcb2649854254670d3c7b4da92213",
+    "reference/v83_faceplate_NO_SPRING_ONLY_ASSEMBLY.stl": "9ba10983bee582ff8305d04172d28143351d00b347903cec9b9fd4cf99891c57",
+    "preview/PRINT_FIRST_rim_lid_0p35_ASSEMBLY.stl": "b1da5a40bcbc39cf15e6887b3124b93920daf9933a6096f9523e37eba8128c41",
+    "preview/cap_socket_3p2_ASSEMBLY.stl": "47c8e267e4852b5513dedbbbf2a097dbeb756269a1cced36fbedccaf5f89e276",
+    "preview/battery_cover_ASSEMBLY.stl": "c5e2c7c8fef638cd12a327265f235320d849af009682c81f1b2b82456864d549",
+    "preview/PRINT_FIRST_latch_tray_ASSEMBLY.stl": "f54934cc247ac29617b91179cc4b5dae2d06617da6f36da8a40669b4d1d0f4cd",
+    "preview/cap_socket_3p3_ASSEMBLY.stl": "1e7743411cc5298677f22ca1a618fb697ba7ff4ad021204eddb66752761b0210",
+    "preview/PRINT_FIRST_screen_52p5x40_ASSEMBLY.stl": "5ee2d7ba794d7ae8632a376e7aecb1bed7abb82112cd97b90f42e8eb3b4a706f",
+    "preview/PRINT_FIRST_cheek_grip_ASSEMBLY.stl": "dd90339fed67151e097db44392cd8a13a18c169eedc79f9c420dfa8f7c751228",
+    "preview/pcb_REFERENCE_ASSEMBLY.stl": "550495e86b166a7783eec390077d1597ce08323108a9a256bbbf5de873755c4c",
+    "preview/faceplate_NO_SPRING_ONLY_ASSEMBLY.stl": "68ac62a7528221f80a35e58abc9737557377b3c19fe5a55b98e74da3eae3adda",
+    "preview/PRINT_FIRST_latch_cover_ASSEMBLY.stl": "2beb60e3ea08bbdb6773a71cfdd2b929de06660243e49073d604b2016e8bf296",
+    "preview/rear_tray_ASSEMBLY.stl": "d3c340d682b0d62ada7613095987f876bf9ba21a25003c735b3245ef120eb6dd",
+    "preview/rear_tray_BLANK_ASSEMBLY.stl": "1ba5548d8f6c81ad8ea5cb6aa13a4602ab52baf4296b6420d71e0043c39d6fc8",
+    "preview/PRINT_FIRST_rim_tray_ASSEMBLY.stl": "21c431623b322f64582278d8f57b802a7a5ba526162984c36216accf5ddb1762",
+    "preview/PRINT_FIRST_front_buttons_ASSEMBLY.stl": "2e154c8b0fe56cd1c1aa80a2e718c636684b3cd74681c292cc0bab084be5b03c",
+    "preview/faceplate_ASSEMBLY.stl": "eb0f428af8348f16eec1e055ec52762b48e8f9dea99ba9a31a3afa927734ee21",
+    "preview/cap_socket_3p1_ASSEMBLY.stl": "751d5e6dad797f1cb211f358ab74d25d99eef99b1ea97a19f8157c8e56803f05",
+    "preview/PRINT_FIRST_rim_lid_0p15_ASSEMBLY.stl": "2a7cc01b4c664eaceb2abbbadf1111b2f7f171cf014aacecebb144ea65800bda",
+    "preview/PRINT_FIRST_cover_edge_ASSEMBLY.stl": "25ae874f03766b476aff0fbead79b1f1e78c8d13a57d25565f0156abf72d8e21",
+    "preview/PRINT_FIRST_rim_lid_0p25_ASSEMBLY.stl": "60c88a19502611196f1d2733f05355eec0c7be6726f95e07b567455e591bec70",
+    "preview/cap_socket_3p0_ASSEMBLY.stl": "97d81566b37b209c8cdd91601b9fd2d1a42c269722517cc8e2b54f46c812f28a",
+    "preview/PRINT_FIRST_right_ear_SAO_ASSEMBLY.stl": "95e96ce661fca2bbf3175f372bf5de37381d8a45a7d1f2a21e5e5306fe7059dd",
+    "CatBadge-v8.4-COMBINED-HANDHELD.3mf": "401c73c6529a0adffed632837b436533c10d4a518dbcc5387012ea3fc83e525a",
+    "PRINT_FIRST_v8.4_Fit_and_Comfort.3mf": "06d800b5e2e27afb2dbe4ae7e43023c08c646797aa54cd80c50909ca2d12cd2e",
+    "CatBadge-v8.4-COMBINED-HANDHELD-NO-SPRING-ONLY.3mf": "a505be47a2277eda0305cedcb2682f5ef0260d6346e0fb2b9052141ffced90e5",
+    "PRINT_FIRST_v8.4_Comfort_Only.3mf": "a2f8f0b9ba92aff177fe3b2f2da2a1a872efebe549b19eb488bb164d5fb0f1cd",
+    "parameters.json": "cfc735f2206b75baa9fde8616dbfc751d8a19f157e7884f40eb0e8e038d9434a",
+    "layouts.json": "58734b51935d878df408026f741b6d0832eb06e29af3535a189e583a86196d5a",
+    "README.md": "2f6d854d12fb1c71401fa2f16edf670ea537cf54b8942afc3fbd02d50cb17b8a",
+    "run.sh": "4d23fd587733cfc4e3571bbe841522dcdc0b3d6b191622e27ebccd1eb71fd5e8",
+    "requirements-resolved.txt": "e35ba12ac3ba089deb0943b20bf14c19da22ba352bfda7fee762ce3d3dec22af"
+  },
+  "dimensions_mm": {
+    "main_shell": 22.4,
+    "battery_shell": 30.7,
+    "including_button_faces": 31.2,
+    "shell_width": 147.96227264404297
+  }
+}

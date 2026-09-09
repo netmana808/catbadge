@@ -1,0 +1,116 @@
+{
+  "battery_cover": {
+    "layer_height_mm": 0.2,
+    "allowed_expansion_mm": 0.205,
+    "violations": [],
+    "pass": true
+  },
+  "cap_socket_3p0": {
+    "layer_height_mm": 0.2,
+    "allowed_expansion_mm": 0.205,
+    "violations": [],
+    "pass": true
+  },
+  "cap_socket_3p1": {
+    "layer_height_mm": 0.2,
+    "allowed_expansion_mm": 0.205,
+    "violations": [],
+    "pass": true
+  },
+  "cap_socket_3p2": {
+    "layer_height_mm": 0.2,
+    "allowed_expansion_mm": 0.205,
+    "violations": [],
+    "pass": true
+  },
+  "cap_socket_3p3": {
+    "layer_height_mm": 0.2,
+    "allowed_expansion_mm": 0.205,
+    "violations": [],
+    "pass": true
+  },
+  "faceplate": {
+    "layer_height_mm": 0.2,
+    "allowed_expansion_mm": 0.205,
+    "violations": [],
+    "pass": true
+  },
+  "faceplate_NO_SPRING_ONLY": {
+    "layer_height_mm": 0.2,
+    "allowed_expansion_mm": 0.205,
+    "violations": [],
+    "pass": true
+  },
+  "rear_tray": {
+    "layer_height_mm": 0.2,
+    "allowed_expansion_mm": 0.205,
+    "violations": [],
+    "pass": true
+  },
+  "PRINT_FIRST_cheek_grip": {
+    "layer_height_mm": 0.2,
+    "allowed_expansion_mm": 0.205,
+    "violations": [],
+    "pass": true
+  },
+  "PRINT_FIRST_cover_edge": {
+    "layer_height_mm": 0.2,
+    "allowed_expansion_mm": 0.205,
+    "violations": [],
+    "pass": true
+  },
+  "PRINT_FIRST_front_buttons": {
+    "layer_height_mm": 0.2,
+    "allowed_expansion_mm": 0.205,
+    "violations": [],
+    "pass": true
+  },
+  "PRINT_FIRST_latch_cover": {
+    "layer_height_mm": 0.2,
+    "allowed_expansion_mm": 0.205,
+    "violations": [],
+    "pass": true
+  },
+  "PRINT_FIRST_latch_tray": {
+    "layer_height_mm": 0.2,
+    "allowed_expansion_mm": 0.205,
+    "violations": [],
+    "pass": true
+  },
+  "PRINT_FIRST_right_ear_SAO": {
+    "layer_height_mm": 0.2,
+    "allowed_expansion_mm": 0.205,
+    "violations": [],
+    "pass": true
+  },
+  "PRINT_FIRST_rim_lid_0p15": {
+    "layer_height_mm": 0.2,
+    "allowed_expansion_mm": 0.205,
+    "violations": [],
+    "pass": true
+  },
+  "PRINT_FIRST_rim_lid_0p25": {
+    "layer_height_mm": 0.2,
+    "allowed_expansion_mm": 0.205,
+    "violations": [],
+    "pass": true
+  },
+  "PRINT_FIRST_rim_lid_0p35": {
+    "layer_height_mm": 0.2,
+    "allowed_expansion_mm": 0.205,
+    "violations": [],
+    "pass": true
+  },
+  "PRINT_FIRST_rim_tray": {
+    "layer_height_mm": 0.2,
+    "allowed_expansion_mm": 0.205,
+    "violations": [],
+    "pass": true
+  },
+  "PRINT_FIRST_screen_52p5x40": {
+    "layer_height_mm": 0.2,
+    "allowed_expansion_mm": 0.205,
+    "violations": [],
+    "pass": true
+  }
+}

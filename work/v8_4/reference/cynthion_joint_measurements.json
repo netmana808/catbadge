@@ -1,0 +1,30 @@
+{
+  "reference_files": {
+    "cynthion_box.stl": "2c88afea1b72dfc1b319b23ddf718317579dcd4b88a9f832a366b78d771b1846",
+    "cynthion_lid.stl": "448afac577c99157a81d16adcc177c45f5c6eb19813fc1e8e92e9bd0c69d6452"
+  },
+  "reference_bounds_xy_mm": [
+    61.48,
+    61.48
+  ],
+  "box_wall_mm": 2.0,
+  "box_outer_lip_thickness_mm": 0.9,
+  "box_lip_height_mm": 1.1,
+  "lid_tongue_mm": 1.0,
+  "lid_tongue_extension_mm": 1.0,
+  "reference_radial_gap_mm": 0.1,
+  "catch_count": 4,
+  "catch_width_mm": 4.0,
+  "catch_projection_mm": 0.4,
+  "catch_longitudinal_intervals_mm": [
+    [
+      12.0,
+      16.0
+    ],
+    [
+      45.48,
+      49.48
+    ]
+  ],
+  "method": "Cross-sections of supplied STL meshes; reference dimensions are not CatBadge fit tolerances"
+}

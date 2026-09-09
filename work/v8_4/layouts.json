@@ -1,0 +1,118 @@
+{
+  "comfort": {
+    "PRINT_FIRST_cover_edge": [
+      8.100000381469727,
+      20.0,
+      8.299999237060547
+    ],
+    "PRINT_FIRST_cheek_grip": [
+      12.015190124511719,
+      16.0,
+      11.0
+    ],
+    "cap_socket_3p2": [
+      11.399999618530273,
+      11.399999618530273,
+      8.0
+    ]
+  },
+  "coupons": {
+    "PRINT_FIRST_screen_52p5x40": [
+      58.5,
+      46.0,
+      1.6000003814697266
+    ],
+    "PRINT_FIRST_front_buttons": [
+      41.01519012451172,
+      36.0,
+      14.0
+    ],
+    "PRINT_FIRST_right_ear_SAO": [
+      42.03666687011719,
+      28.77252960205078,
+      14.0
+    ],
+    "PRINT_FIRST_cover_edge": [
+      8.100000381469727,
+      20.0,
+      8.299999237060547
+    ],
+    "PRINT_FIRST_rim_lid_0p15": [
+      10.79697036743164,
+      19.95124053955078,
+      14.0
+    ],
+    "PRINT_FIRST_rim_lid_0p25": [
+      10.79697036743164,
+      19.95124053955078,
+      14.0
+    ],
+    "PRINT_FIRST_rim_lid_0p35": [
+      10.79697036743164,
+      19.95124053955078,
+      14.0
+    ],
+    "PRINT_FIRST_rim_tray": [
+      10.335159301757812,
+      19.95124053955078,
+      11.40000057220459
+    ],
+    "PRINT_FIRST_cheek_grip": [
+      12.015190124511719,
+      16.0,
+      11.0
+    ],
+    "cap_socket_3p0": [
+      11.399999618530273,
+      11.399999618530273,
+      8.0
+    ],
+    "cap_socket_3p1": [
+      11.399999618530273,
+      11.399999618530273,
+      8.0
+    ],
+    "cap_socket_3p2": [
+      11.399999618530273,
+      11.399999618530273,
+      8.0
+    ],
+    "cap_socket_3p3": [
+      11.399999618530273,
+      11.399999618530273,
+      8.0
+    ],
+    "PRINT_FIRST_latch_cover": [
+      44.20000076293945,
+      9.299999237060547,
+      9.199999809265137
+    ],
+    "PRINT_FIRST_latch_tray": [
+      59.0,
+      9.0,
+      11.40000057220459
+    ]
+  },
+  "CatBadge-v8.4-COMBINED-HANDHELD": [
+    "faceplate",
+    "rear_tray",
+    "battery_cover",
+    "button_LEFT_TRIAL_3p2",
+    "button_UP_TRIAL_3p2",
+    "button_DOWN_TRIAL_3p2",
+    "button_RIGHT_TRIAL_3p2",
+    "button_B_TRIAL_3p2",
+    "button_A_TRIAL_3p2"
+  ],
+  "CatBadge-v8.4-COMBINED-HANDHELD-NO-SPRING-ONLY": [
+    "faceplate_NO_SPRING_ONLY",
+    "rear_tray",
+    "battery_cover",
+    "button_LEFT_TRIAL_3p2",
+    "button_UP_TRIAL_3p2",
+    "button_DOWN_TRIAL_3p2",
+    "button_RIGHT_TRIAL_3p2",
+    "button_B_TRIAL_3p2",
+    "button_A_TRIAL_3p2"
+  ]
+}
