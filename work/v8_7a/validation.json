@@ -1,0 +1,82 @@
+{
+  "status": "PASS",
+  "reference_sha256": "f83b92de9618cc69e264601fa26c62ffd70a6427b5548e6ba611499847d289bf",
+  "pad_height_mm": 0.4,
+  "pad_centers_radii_reference_xy": [
+    [
+      26.266,
+      98,
+      12
+    ],
+    [
+      121.7,
+      98,
+      12
+    ],
+    [
+      7,
+      8,
+      10
+    ],
+    [
+      141,
+      8,
+      10
+    ]
+  ],
+  "print_translation_mm": [
+    3.0,
+    2.0,
+    0.0
+  ],
+  "rear": {
+    "volume_mm3": 23998.522524516895,
+    "bounds_mm": [
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        154.0,
+        112.0,
+        12.199999809265137
+      ]
+    ],
+    "triangles": 66586,
+    "connected_solids": 1,
+    "watertight": true,
+    "stl_3mf_agree": true
+  },
+  "coupon": {
+    "volume_mm3": 495.9619197005204,
+    "bounds_mm": [
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        27.236074447631836,
+        28.0,
+        2.4000000953674316
+      ]
+    ],
+    "triangles": 3452,
+    "connected_solids": 1,
+    "watertight": true,
+    "stl_3mf_agree": true
+  },
+  "original_removed_volume_mm3": 0.00029416246631844343,
+  "added_above_pads_mm3": 0.0006149010237028148,
+  "added_volume_mm3": 572.0315721721136,
+  "added_bed_contact_mm2": 1433.8518551668003,
+  "max_section_error_above_pads_mm2": 0.0002241925757749306,
+  "layer_check": {
+    "layer_mm": 0.2,
+    "lateral_allowance_mm": 0.205,
+    "unsupported": []
+  },
+  "physical_print_test": "PENDING",
+  "slicer_toolpath_validation": "NOT PERFORMED"
+}

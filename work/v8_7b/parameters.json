@@ -1,0 +1,67 @@
+{
+  "faceplate_outer_z": 12.8,
+  "face_z": 14.3,
+  "old_face_z": 13.3,
+  "bevel": 0.3,
+  "socket_roof_z": 6.8,
+  "socket_depth": 1.5,
+  "socket_boss_diameter": 4.8,
+  "flange_diameter": 11.4,
+  "flange_bottom": 9.8,
+  "flange_top": 10.8,
+  "faceplate_guide_diameter": 10.6,
+  "flange_cavity_diameter": 11.8,
+  "status": "UNPRINTED fit trial; same v8.7 faceplate",
+  "variants": [
+    [
+      10.0,
+      3.2
+    ],
+    [
+      10.2,
+      3.2
+    ],
+    [
+      10.3,
+      3.2
+    ],
+    [
+      10.2,
+      3.3
+    ],
+    [
+      10.2,
+      3.1
+    ],
+    [
+      10.2,
+      3.0
+    ]
+  ],
+  "button_positions": {
+    "LEFT": [
+      -62.0,
+      0.0
+    ],
+    "UP": [
+      -53.0,
+      8.0
+    ],
+    "DOWN": [
+      -53.0,
+      -8.0
+    ],
+    "RIGHT": [
+      -44.0,
+      0.0
+    ],
+    "B": [
+      54.8,
+      -9.7
+    ],
+    "A": [
+      61.0,
+      3.0
+    ]
+  }
+}

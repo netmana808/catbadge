@@ -1,0 +1,170 @@
+{
+  "status": "PASS",
+  "parts": {
+    "cap_G10p0_S3p2_PLUS1mm": {
+      "volume_mm3": 452.6593740459405,
+      "bounds_mm": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          11.399999618530273,
+          11.399999618530273,
+          9.0
+        ]
+      ],
+      "triangles": 2560,
+      "connected_solids": 1,
+      "watertight": true,
+      "stl_3mf_agree": true,
+      "guide_diameter_mm": 10.0,
+      "socket_diameter_mm": 3.2,
+      "guide_radial_clearance_mm": 0.2999999999999998,
+      "max_preserved_interface_section_error_mm2": 4.428899300620108e-06,
+      "nominal_protrusion_mm": 1.5,
+      "layer_overhang_failures": []
+    },
+    "cap_G10p2_S3p2_PLUS1mm": {
+      "volume_mm3": 461.67107778071767,
+      "bounds_mm": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          11.399999618530273,
+          11.399999618530273,
+          9.0
+        ]
+      ],
+      "triangles": 2560,
+      "connected_solids": 1,
+      "watertight": true,
+      "stl_3mf_agree": true,
+      "guide_diameter_mm": 10.2,
+      "socket_diameter_mm": 3.2,
+      "guide_radial_clearance_mm": 0.20000000000000018,
+      "max_preserved_interface_section_error_mm2": 4.428899300620108e-06,
+      "nominal_protrusion_mm": 1.5,
+      "layer_overhang_failures": []
+    },
+    "cap_G10p3_S3p2_PLUS1mm": {
+      "volume_mm3": 466.3645581032788,
+      "bounds_mm": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          11.399999618530273,
+          11.399999618530273,
+          9.0
+        ]
+      ],
+      "triangles": 2560,
+      "connected_solids": 1,
+      "watertight": true,
+      "stl_3mf_agree": true,
+      "guide_diameter_mm": 10.3,
+      "socket_diameter_mm": 3.2,
+      "guide_radial_clearance_mm": 0.14999999999999947,
+      "max_preserved_interface_section_error_mm2": 4.428899300620108e-06,
+      "nominal_protrusion_mm": 1.5,
+      "layer_overhang_failures": []
+    },
+    "cap_G10p2_S3p3_PLUS1mm": {
+      "volume_mm3": 460.9009116648549,
+      "bounds_mm": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          11.399999618530273,
+          11.399999618530273,
+          9.0
+        ]
+      ],
+      "triangles": 2560,
+      "connected_solids": 1,
+      "watertight": true,
+      "stl_3mf_agree": true,
+      "guide_diameter_mm": 10.2,
+      "socket_diameter_mm": 3.3,
+      "guide_radial_clearance_mm": 0.20000000000000018,
+      "max_preserved_interface_section_error_mm2": 4.428899300620108e-06,
+      "nominal_protrusion_mm": 1.5,
+      "layer_overhang_failures": []
+    },
+    "cap_G10p2_S3p1_PLUS1mm": {
+      "volume_mm3": 462.4176910757595,
+      "bounds_mm": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          11.399999618530273,
+          11.399999618530273,
+          9.0
+        ]
+      ],
+      "triangles": 2560,
+      "connected_solids": 1,
+      "watertight": true,
+      "stl_3mf_agree": true,
+      "guide_diameter_mm": 10.2,
+      "socket_diameter_mm": 3.1,
+      "guide_radial_clearance_mm": 0.20000000000000018,
+      "max_preserved_interface_section_error_mm2": 4.428899300620108e-06,
+      "nominal_protrusion_mm": 1.5,
+      "layer_overhang_failures": []
+    },
+    "cap_G10p2_S3p0_PLUS1mm": {
+      "volume_mm3": 463.1407528285952,
+      "bounds_mm": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          11.399999618530273,
+          11.399999618530273,
+          9.0
+        ]
+      ],
+      "triangles": 2560,
+      "connected_solids": 1,
+      "watertight": true,
+      "stl_3mf_agree": true,
+      "guide_diameter_mm": 10.2,
+      "socket_diameter_mm": 3.0,
+      "guide_radial_clearance_mm": 0.20000000000000018,
+      "max_preserved_interface_section_error_mm2": 4.428899300620108e-06,
+      "nominal_protrusion_mm": 1.5,
+      "layer_overhang_failures": []
+    }
+  },
+  "collision_free_motion_cases": 648,
+  "flange_stop_cases": 72,
+  "max_collision_volume_mm3": 0.0,
+  "actual_switch_stroke_force_and_return": "UNVERIFIED",
+  "physical_fit": "UNPRINTED",
+  "slicer_toolpaths": "NOT VALIDATED",
+  "front_and_rear_modified": false,
+  "reference_sha256": {
+    "cap_socket_3p0_ASSEMBLY.stl": "97d81566b37b209c8cdd91601b9fd2d1a42c269722517cc8e2b54f46c812f28a",
+    "cap_socket_3p1_ASSEMBLY.stl": "751d5e6dad797f1cb211f358ab74d25d99eef99b1ea97a19f8157c8e56803f05",
+    "cap_socket_3p2_ASSEMBLY.stl": "47c8e267e4852b5513dedbbbf2a097dbeb756269a1cced36fbedccaf5f89e276",
+    "cap_socket_3p3_ASSEMBLY.stl": "1e7743411cc5298677f22ca1a618fb697ba7ff4ad021204eddb66752761b0210",
+    "faceplate_ASSEMBLY.stl": "ca55997beb563a231a644c040eef7ace8c919f594e92ce192e7f1308a7ffc800",
+    "faceplate_NO_SPRING_ONLY_ASSEMBLY.stl": "2360f6d5c98c1094caccd6b7d542d23b3690e1593f05ea85a79817caad4c0d72"
+  }
+}
